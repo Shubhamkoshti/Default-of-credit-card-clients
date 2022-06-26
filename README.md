@@ -39,11 +39,11 @@ The problem finding the patterns in customer behaviors that help predicting if a
 25. default.payment.next.month: Default payment (1=yes, 0=no)
 
 ### Library Used
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Sklearn
+Numpy  
+Pandas  
+Matplotlib  
+Seaborn  
+Sklearn  
 Xgboost
 
 
